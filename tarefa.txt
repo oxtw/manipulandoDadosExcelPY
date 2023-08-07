@@ -1,0 +1,51 @@
+Miguel
+ 
+
+Abrir o excel
+Separando o mês 07 na criação
+Cria lista do link, criação, titulo, corpo do chamado, fim laudo final, ultimo comentário, tempo do cliente, termino do chamado]
+Classifica a lista por link e criação
+Ler a lista a fazer o arquivo texto
+Link ( a cada quebra)
+Texto padrão por chamado
+ 
+
+ 
+
+ 
+
+exemplo
+ 
+
+Linkxxxxx
+                Chamado yyyy DIA mês abertuta di ames fechamento
+                               Termino do chaado, laudo final
+                Chamado yyya
+ 
+
+linkxxxxx  
+
+
+==============================
+
+Boa tarde, Miguel,
+ 
+
+Temos uma primeira atividade que envolve programação ...
+ 
+
+No anexo estão informação (em excel) de nossos chamados e dos links que de nossa base extraídos do pipefy.
+ 
+
+No arquivo word temos um relatório que é criado a partir destas bases para o cliente Telebras (somente para a Telebrás).
+ 
+
+Precisamos de sua ajuda para que o nosso trabalho não seja tão extenso todos os meses ... o Ricardo vai explicar melhor o que e como fazer .. com foco no mês 7 que acaba de terminar.
+ 
+
+Se precisar de ajuda, já sabe ... estou por aqui 😊
+ 
+
+Grato
+fabio
+================================
