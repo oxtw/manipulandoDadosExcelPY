@@ -45,4 +45,5 @@ for link2, chamados in filtered_data.items():
         print(f"\t\tTempo de atraso do cliente em horas: {chamado['Tempo de atraso do cliente em horas']}")
         print(f"\t\tTempo de atraso do cliente em minutos: {chamado['Tempo de atraso do cliente em minutos']}")
         print(f"\t\tJustificativa do atraso do cliente: {chamado['Justificativa do atraso do cliente']}")
-
+        print('----------------------------------------------------------------------------------------------------------------------------------')
+        print('==================================================================================================================================')
